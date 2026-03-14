@@ -6,7 +6,7 @@
   <img height="280" src="https://github.com/yanpinchouli/yanpinchouli/assets/91281982/97d0fcd3-4485-4a8b-892d-fa9dd660b166"  />
 </div>
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left"> Preferred Tech Stack</h2>
 
 <br clear="both">
 
